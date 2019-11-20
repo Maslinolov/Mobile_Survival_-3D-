@@ -14,7 +14,7 @@ public class StructureScript : MonoBehaviour {
 	void Update ()
     {        
         if (Trg[0] == 0)
-        {
+        {          
             Structure.transform.Rotate(-1F, 0, 0);
         }
         if (Trg[1] == 0)

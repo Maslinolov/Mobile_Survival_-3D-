@@ -8,6 +8,10 @@ TagManager:
   - Building
   - Terrain
   - Fireplace
+  - WaterSource
+  - Bed
+  - Tree
+  - Wood
   layers:
   - Default
   - TransparentFX

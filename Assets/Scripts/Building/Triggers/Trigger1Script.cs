@@ -6,7 +6,7 @@ public class Trigger1Script : MonoBehaviour {
 
     void OnTriggerStay(Collider other)
     {        
-        StructureScript.Trg[0] = 1;
+        StructureScript.Trg[0] = 1;        
     }
 
     void OnTriggerExit(Collider other)
